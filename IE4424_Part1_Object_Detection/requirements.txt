@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+numpy==2.1.1
+matplotlib==3.10.1
+scipy==1.15.2
+pillow==11.0.0
+ultralytics==8.3.84
+ultralytics-thop==2.0.14
+torchmetrics==1.6.2
+torchinfo==1.8.0
+pycocotools==2.0.8
